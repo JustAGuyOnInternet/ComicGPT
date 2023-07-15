@@ -1,3 +1,3 @@
 # ComicGPT
 Github repo for ComicGPT notion page
-Here's the notion page - https://www.notion.so/Aditya-Narayan-Prasad-2525af2ce3124b3f9937b2d142833c7c
+All mentees have documented in [this](https://www.notion.so/ComicGPT-ec6d472d1e264ad9b74d6f08a03b429d) notion page. 
