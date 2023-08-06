@@ -1,0 +1,108 @@
+The task is to take a prompt that vaguely descirbes an overarching story and convert it into 10 scenes, each scene descirbing an action all
+      scenes basically telling the whole story. Now i want you to do two things. Create the whole story, overahcing story basically describing all of 10 scenes.
+      And then create 10 prompts. These prompts are for image generating ai which when given these prompts generates the image. I am going to give you the guide to making prompts :
+
+     I've seen a lot of unique AI image prompts over the past few months, but all of them share a set of common characteristics. Here's the general structure, in order of writing:
+
+  [image content/subject, description of action, state, and mood],
+
+  [art form, style, and artist references],
+
+  [additional settings, such as lighting, colors, and framing]
+
+  As you add more elements to your prompt, be sure to separate them with commas. This will help the AI model interpret your prompt, and it will make it easier for you to remember what you've asked for.
+
+  How long should an AI art prompt be?
+  There aren't hard limits on how long or short a prompt should be: Midjourney works well with 60-word prompts, while Stable Diffusion does best if you stay below 380 characters. And AI image generators can get confused if you give them too much to work with. But play around with it—you never know what you'll find.
+
+  What style of language should you use in an AI art prompt?
+  Vivid details and concrete language produce more predictable results. Don't use Poetic or abstract wordings. 
+
+ Start with the image content
+  "A cat on the sofa."
+  Start by stating the subject or content of the image. This part is self-explanatory, and entering it into an AI image generation app will produce predictable results
+
+The main subject of image should be described completely, like if main character is a girl then write more details about her. Write her clothes, the color of clothes, the mood of girl, her skin complexion, her age, her hair color, and what she is doing.
+Example is, "A teenage fair skin girl wearing a red frock with white polka dots and blue colored hair ribbon, blonde hairs, is walking happily in a corn field." 
+Write the complete details of every character you use in all the prompts.
+If the main subject is animal or other non living thing, then write its color, breed, mood, etc.
+Example is, don't write "A dog is eating bread on street given by beggar". Instead write "A german shepherd is eating brown bread on a dimly lit street given by a beggar wearing shabby blue trousers and red shirt with patches. The sun is setting and sky is orangish."
+But use the same description of character in every prompt.
+
+  In addition to the content, you can also describe:
+
+  Actions that the subject is doing (e.g., looking up, playing, or running)
+
+  How they're doing these actions (e.g., joyfully, fearfully, or boldly)
+
+  The mood of the image (e.g., ominous morning rain, dangerous sunset mountains, nostalgic coffee table)
+
+  The more details you provide, the better your chances of getting a more interesting result.
+ Here are a few common art forms to explore.
+
+Photography
+ Photography will be a recurrent prompt you'll use, especially if you're going for realistic pictures. There's a lot you can control here: you can state the framing, lighting conditions, and even the type of camera you're "using," down to the camera/lens brands and specifications.
+
+ Painting
+You can explore all sorts of angles here:
+  Techniques (e.g., oil painting or watercolor)
+  Art movements (e.g., impressionism or Fauvism)
+  Artist names (e.g., Cézanne or Kahlo)
+Example is  "Impressionist oil painting of a cute robot."
+
+ Digital art :- Example is "Isolated convenience store in the middle of the desert at sunset, car parked outside, lo-fi, nostalgic."
+
+ Add more details to your prompt after adding the artforms like
+Framing :-  Framing refers to how the subject or content is positioned in the image, and you can use it to influence image composition.
+
+  It can be challenging to control the framing depending on how you write the first part of your prompt. For example, if you're having trouble with close-ups, try stating the subject first and describing the background after. 
+
+First, I tried using this prompt: Person standing inside a forest fire, strong determined attitude, close-up shot, realistic. Midjourney didn't care much about "close-up shot":
+
+  The silhouette of a person in the distance standing among a forest fire
+  Then, I moved a few pieces around in the prompt: "Person with strong determined attitude, forest fire background, close-up shot, realistic." Now that the prompt says the forest fire is in the background, it's getting closer to what I wanted:
+
+  A close-up of a person staring at the camera with a fire in the background
+  The expressions used for film directing and camerawork apply here, so you can use "wide shot," "point-of-view," or "dutch angle," among others.
+
+Lighting :- Especially in photography, lighting is critical and can change the look and feel of an image. Consider tweaking your lighting prompts using "soft light," "hard light," or even "dramatic lighting." You can also mention times of day, such as "morning," "sunset," or "golden hour." Example is  "Lonely evil bananas on a table, hard light chiaroscuro, realistic."
+
+Color scheme :-   While controlling lighting already introduces a level of color control, you can also play with color schemes to influence the color of objects, light, or the entire image look and feel. Examples is   "A futuristic hopeful busy city, purple and green color scheme."
+
+Level of detail and realism :- Prompts like "4k" or "8k" give the AI model the instruction to increase the level of detail in the image. (Keep in mind that it doesn't increase the actual resolution of the image output.) Example is   "A distant galaxy filled with tiny colorful stars, a blue, Earth-like planet in the foreground, realistic, colorful, 8k, trending on artstation."
+
+The above instructions are for making the prompts, but the most important point while making prompt is that, you should describe your character in every prompt. Character design should be consistent, so describe it with its clothes, colour, body physique, skin complexion in every prompt. Same should be applied to background. The theme and vibe of background should be same in every prompt.
+
+Example is, 
+
+Prompt 1 :- A cozy attic filled with old trinkets and paintings. 
+A young girl wearing red top and green shorts, blonde hair, unearths the Enchanted Brush from a dusty old wooden brown chest, sunlight filtering through the attic's window, casting a warm glow.
+
+Prompt 2 :-  A majestic dragon with colorful scales and glowing eyes. A young girl wearing red top and green shorts, blonde hair, is drawing on the canvas in her attic with paint brush. And a dragon comes alive from that canvas. Sunlight is filtering through the attic's window, casting a warm glow.
+
+  Decide all the image details mentioned before, like color scheme, lightings, framing, art style, painting, photography and keep them constant in every image prompt you generate, so that every image is generated of same art style like a comic strip. 
+
+Don't forget to describe the background of every image also, like if a person is drawing a forest then also add details about the place and background of room where he is drawing in. If the place or background is same in two prompts then write the details about them in both prompt.
+Example, 
+Prompt 1- "An old man is sitting on a chair in a green empty garden with long grass". 
+Then prompt 2 should be of the format - "A boy wearing shorts and football clothes comes near an old man sitting on a chair in a green empty garden with long grass".
+
+Example, don't write prompt like "A majestic dragon with colorful scales and glowing eyes.Lily, wearing her red polka-dotted dress, blonde pigtails tied with blue ribbons, and a look of wonder, paints a dragon on a canvas. To her astonishment, the dragon comes to life, its scales shimmering with vibrant colors and its eyes glowing with magic.".
+Instead write prompt with describing the background like,"A majestic dragon with colorful scales and glowing eyes.Lily, wearing her red polka-dotted dress, blonde pigtails tied with blue ribbons, and a look of wonder, paints a dragon on a canvas. To her astonishment, the dragon comes to life, its scales shimmering with vibrant colors and its eyes glowing with magic. "
+
+Another thing 
+
+
+your response should follow the following format -
+      <the story in simple english, understandable by humans> \n
+      1. prompt1 \n
+      2. prompt2 \n
+      and so on
+
+And also, dont change too much between each image_prompt. Each  image_prompt should describe a single thing/action/scene. Slowly go through the story with 10 image_promts.
+      Also, because we are giving each prompt seperately to the image  genrating ai, you can't reference anything from one prompt to another. Like every character has to be described in every prompt.
+      Suppose you have a calico \"cat\", you cant name it , you have to desrcibe that cat in every prompt.
+      the prompts should sort of follow this format - <character description in detail> <action/pose/scene description> <background description>
+      Also be sure to add those '8k' and all those amaszing stuff in prompt. Keep the style consistent in all prompts.
+
+story prompt : "A Girl finds an enchanted brush"
